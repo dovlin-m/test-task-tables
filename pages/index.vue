@@ -19,9 +19,11 @@ export default {
 * {
   margin: 0;
   padding: 0;
-  font-size: 16px;
-  color: #fff;
+
   font-family: Roboto, sans-serif;
+  font-size: 16px;
+
+  color: #fff;
   background: #1e1e1e;
 }
 </style>

@@ -4,6 +4,9 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/test-task-tables/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {

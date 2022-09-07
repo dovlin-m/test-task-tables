@@ -1,5 +1,9 @@
 # test-task-tables
 
+## Deploy
+
+[test-task-tables](https://dovlin-m.github.io/test-task-tables/)
+
 ## Build Setup
 
 ```bash
